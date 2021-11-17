@@ -1,0 +1,6 @@
+node_modules
+.env
+spec/
+.husky/
+lib/routes/
+lib/helpers/loaders/
